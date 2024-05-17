@@ -1,0 +1,104 @@
+{
+  "exercises": [
+    {
+      "sentence": "Ich gehe in ___ Park.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "den"
+    },
+    {
+      "sentence": "Ich gebe dem Mann ___ Buch.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "das"
+    },
+    {
+      "sentence": "Er schenkt ___ Frau eine Blume.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "der"
+    },
+    {
+      "sentence": "Wir fahren mit ___ Auto.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "dem"
+    },
+    {
+      "sentence": "Ich danke ___ Lehrer.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "dem"
+    },
+    {
+      "sentence": "Sie antwortet ___ Schüler.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "dem"
+    },
+    {
+      "sentence": "Ich brauche ___ Stift.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "den"
+    },
+    {
+      "sentence": "Er ruft ___ Freundin an.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "die"
+    },
+    {
+      "sentence": "Wir sprechen über ___ Film.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "den"
+    },
+    {
+      "sentence": "Ich habe ___ Hund.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "den"
+    },
+    {
+      "sentence": "Die Katze liegt auf ___ Sofa.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "dem"
+    },
+    {
+      "sentence": "Er hilft ___ Freund.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "dem"
+    },
+    {
+      "sentence": "Ich wohne in ___ Stadt.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "der"
+    },
+    {
+      "sentence": "Das Buch gehört ___ Mädchen.",
+      "options": ["der", "die", "das", "dem"],
+      "correctAnswer": "dem"
+    },
+    {
+      "sentence": "Er läuft durch ___ Wald.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "den"
+    },
+    {
+      "sentence": "Sie wartet auf ___ Bus.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "den"
+    },
+    {
+      "sentence": "Ich träume von ___ Urlaub.",
+      "options": ["der", "die", "das", "dem"],
+      "correctAnswer": "dem"
+    },
+    {
+      "sentence": "Er denkt an ___ Projekt.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "das"
+    },
+    {
+      "sentence": "Das Geschenk ist für ___ Kind.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "das"
+    },
+    {
+      "sentence": "Sie kümmert sich um ___ Hund.",
+      "options": ["der", "die", "das", "den"],
+      "correctAnswer": "den"
+    }
+  ]
+}
